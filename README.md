@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" src="https://i.gifer.com/3q63.gif">
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/42048/screenshots/8350927/robotintro_dribble.gif">
 <h1 align="center">Hi 👋, I'm Dusmatov M</h1>
 <h3 align="center">I am a person, devote helping people in terms of AI programming.</h3>
 
