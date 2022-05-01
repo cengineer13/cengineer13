@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" src="https://www.thoughtstorminc.com/wp-content/uploads/2021/02/frrole_lead.gif">
+<img align="right" alt="Coding" src="https://i.gifer.com/3q63.gif">
 <h1 align="center">Hi 👋, I'm Dusmatov M</h1>
 <h3 align="center">I am a person, devote helping people in terms of AI programming.</h3>
 
