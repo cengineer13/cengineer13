@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif">
+<img align="center" alt="Coding" src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif">
 <h1 align="center">Hi 👋, I'm Dusmatov M</h1>
 <h3 align="center">I am a person, devote helping people in terms of AI programming.</h3>
 
