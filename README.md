@@ -1,5 +1,5 @@
 
-<img align="center" width="400" height="300" alt="Coding" src="https://www.thoughtstorminc.com/wp-content/uploads/2021/02/frrole_lead.gif>
+<img align="center" width="400" height="300" alt="Coding" src="https://www.thoughtstorminc.com/wp-content/uploads/2021/02/frrole_lead.gif">
 <h1 align="center">Hi 👋, I'm Dusmatov M</h1>
 <h3 align="center">I am a person, devote helping people in terms of AI programming.</h3>
 
