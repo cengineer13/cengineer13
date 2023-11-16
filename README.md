@@ -1,17 +1,16 @@
 
 <img align="right" width="300" alt="Coding" src="https://cdn.dribbble.com/users/42048/screenshots/8350927/robotintro_dribble.gif">
 <h1 align="center">Hi 👋, I'm Dusmatov M</h1>
-<h3 align="center">I am a person, devote helping people in terms of AI programming.</h3>
+<h3 align="center">I am a person, devote helping people in terms of AI world</h3>
 
 - 👀 I’m currently working on **Artificial intelegence, Machine Learning and Deep Learning projects**
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning, Computer Vision, NLP**
+- 🌱 I’m currently developing my skills of **Machine Learning, Deep learning, Computer Vision, NLP** 
 
-- 👨‍💻 I can do something with **HTML, CSS, Bootstrap, Flask, Python, C/C++, Ml, DL algorithms**
+- 👨‍💻 I can do something with **Python,  Ml, DL algorithms, C/C++, HTML, CSS, Bootstrap, Flask, **
 
 - 📫 How to reach me **[SNS](https://linktr.ee/cengineer13)**
 
-- 📫 Find me on telegram messenger **@cengineer13**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
