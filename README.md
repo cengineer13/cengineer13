@@ -9,7 +9,7 @@
 
 - 👨‍💻 I can do something with **HTML, CSS, Bootstrap, Flask, Python, C/C++, Ml, DL algorithms**
 
-- 📫 How to reach me **murodild@gmail.com**
+- 📫 How to reach me **[murodild@gmail.com](https://linktr.ee/cengineer13)**
 
 - 📫 Find me on telegram messenger **@cengineer13**
 
